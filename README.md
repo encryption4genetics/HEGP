@@ -1,2 +1,3 @@
 # genetics-article
-Source code for published article in Genetics
+
+Source code for published article in [Genetics](./Genetics).
